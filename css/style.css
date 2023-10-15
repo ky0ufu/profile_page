@@ -1,0 +1,18 @@
+.dark{
+    background-color: black;
+    height: 100%;
+}
+
+.hov:hover {
+    text-decoration: none;
+    background-color: rgb(172, 166, 166);
+    justify-content: space-between;
+}
+
+.space {
+    justify-content: space-between;
+}
+
+.light-gray-text {
+    color:rgb(185, 176, 176)
+}
