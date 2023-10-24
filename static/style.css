@@ -20,7 +20,7 @@
 }
 
 .text-blue {
-    color: rgba(201, 77, 206, 0.7);
+    color: rgba(216, 176, 218, 0.7);
 }
 
 .custom-container {
@@ -70,4 +70,5 @@
 
 .hov:hover {
     background: white;
+    opacity: 0.5;
 }
